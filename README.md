@@ -4,5 +4,5 @@ Continuation of [this](https://forum.kerbalspaceprogram.com/index.php?/topic/457
 
 # Dependencies:
 
-- Firespitter
+- KSPWheel
 - CommunityResourcePack
