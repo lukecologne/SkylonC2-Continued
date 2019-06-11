@@ -6,3 +6,7 @@ Continuation of [this](https://forum.kerbalspaceprogram.com/index.php?/topic/457
 
 - [KSPWheel](https://forum.kerbalspaceprogram.com/index.php?/topic/152782-17x-kspwheel-physics-based-alternate-wheel-collider-api-only/&)
 - [CommunityResourcePack](https://forum.kerbalspaceprogram.com/index.php?/topic/83007-15x-community-resource-pack/)
+
+# Recommended:
+
+- [Ferram Aerospace Research Continued](https://forum.kerbalspaceprogram.com/index.php?/topic/179445-14-17-ferram-aerospace-research-continued-v015101-lundgren-170419/)
