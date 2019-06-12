@@ -10,3 +10,4 @@ Continuation of [this](https://forum.kerbalspaceprogram.com/index.php?/topic/457
 # Recommended:
 
 - [Ferram Aerospace Research Continued](https://forum.kerbalspaceprogram.com/index.php?/topic/179445-14-17-ferram-aerospace-research-continued-v015101-lundgren-170419/)
+-[AtmosphereAutopilot](https://forum.kerbalspaceprogram.com/index.php?/topic/124417-122-171-atmosphereautopilot-1512/)
